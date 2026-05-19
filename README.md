@@ -28,6 +28,10 @@ The project involves taking a dataset of World Cup game results (in CSV format) 
 * `queries.sh`: A Bash script that runs various SQL queries to answer questions about the data.
 * `worldcup.sql`: A dump of the database schema and data.
 
+## 📊 Entity Relationship Diagram
+
+![ERD](erd.png)
+
 ## How to Run
 
 To run this project, ensure you have a PostgreSQL environment set up.
