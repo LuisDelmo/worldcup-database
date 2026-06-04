@@ -1,5 +1,3 @@
-Here is a structured `README.md` file tailored for your project. You can copy this content directly into a new file named `README.md` in your repository.
-
 ---
 
 # World Cup Database Project
